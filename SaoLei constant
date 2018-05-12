@@ -1,0 +1,7 @@
+public class SaoLeiConstant {
+	final int row = 20;//行数30
+	final int col = 20;//列数30
+	final int LEICODE = 10;//定义雷下方的数字
+	protected int temp = 10;
+	protected int leiCount = temp;//雷数30
+}
